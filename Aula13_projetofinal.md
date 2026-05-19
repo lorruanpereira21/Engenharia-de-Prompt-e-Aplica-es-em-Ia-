@@ -2,6 +2,7 @@ Projeto Final Low Code/No Code — Automação de E-mails
 
 Participantes
 Lorruan Pereira Soares (45886466)
+
 Davi Lucas de Oliveira Sousa (45845531)
 
 Desafio Escolhido
