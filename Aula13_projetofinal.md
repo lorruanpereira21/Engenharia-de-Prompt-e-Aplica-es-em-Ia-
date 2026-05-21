@@ -4,7 +4,6 @@
 ## Participantes
 - Davi Lucas de Oliveira Sousa (45845531)
 - Lorruan Pereira Soares (45886466)
-- Lara Nicole (45929351)
 
 
 ## Desafio Escolhido
